@@ -7,8 +7,8 @@
 
 \#OrganizeTheWeb
 
-[[Arts]]
-Movies, Television, [[Music]]...
+[Arts](arts)
+Movies, Television, [Music](music)...
 
 Business
 Jobs, Real Estate, Investing...
